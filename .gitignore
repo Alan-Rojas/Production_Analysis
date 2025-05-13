@@ -1,0 +1,13 @@
+# Ignorar datos
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.sav
+*.json
+*.zip
+
+# Carpeta común de datos
+datos/
+data/
